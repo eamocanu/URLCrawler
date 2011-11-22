@@ -1,7 +1,7 @@
 Author: Adrian M
 Downloaded from https://github.com/eamocanu/URLCrawler
 Released under the BSD license.
-Let me know if you use this software. 
+Let me know if you use this software so I keep track of it
 Email listed at https://github.com/eamocanu
 
 
